@@ -1,0 +1,15 @@
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\bin\Debug\net6.0\Homework_3.exe
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\bin\Debug\net6.0\Homework_3.deps.json
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\bin\Debug\net6.0\Homework_3.runtimeconfig.json
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\bin\Debug\net6.0\Homework_3.dll
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\bin\Debug\net6.0\Homework_3.pdb
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\obj\Debug\net6.0\Homework_3.csproj.AssemblyReference.cache
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\obj\Debug\net6.0\Homework_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\obj\Debug\net6.0\Homework_3.AssemblyInfoInputs.cache
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\obj\Debug\net6.0\Homework_3.AssemblyInfo.cs
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\obj\Debug\net6.0\Homework_3.csproj.CoreCompileInputs.cache
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\obj\Debug\net6.0\Homework_3.dll
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\obj\Debug\net6.0\refint\Homework_3.dll
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\obj\Debug\net6.0\Homework_3.pdb
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\obj\Debug\net6.0\Homework_3.genruntimeconfig.cache
+C:\Users\serge\OneDrive\Рабочий стол\Разработчик\4 модуль Знакомство с языком C#\Семинары\7 семинар\30.05.2022\Homework_3\obj\Debug\net6.0\ref\Homework_3.dll
